@@ -1,3 +1,3 @@
 exports.ds2 = require('sourcegraph-depstats-nodejs-2');
-exports.ds2.foo();
+console.log(exports.ds2.foo());
 
